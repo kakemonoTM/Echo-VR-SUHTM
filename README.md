@@ -3,7 +3,7 @@
 
 **Currently the servers are simple websocket servers and the servers send nothing back to echo causing a login loop for now**
 
-these servers are written in Deno (https://deno.land)
+these servers are written with Deno (https://deno.land)
 
 ## how to run
 
