@@ -21,10 +21,15 @@ Listening on http://localhost:6781/
 look in _local there should be a config.json then
 put the config.json file in _local in the games files location 
 
-any problems running the servers feel free to join https://discord.gg/xZWkVZQqZq and do @kakemono#0 in #off-topic
+any problems running the servers feel free to dm me on discord @kakemono#0
 
 ## Special Thanks to
 
-special thanks to UnusualNorm for creating Decho (https://github.com/UnusualNorm/Decho)
+# special thanks to UnusualNorm for creating Decho (https://github.com/UnusualNorm/Decho)
 
 Decho is custom servers for newer Echo Version  34.4.631547.1
+
+# special thanks to EchoVR Custom Servers for never giving up on Echo VR 
+
+their discord server is https://discord.gg/xZWkVZQqZq
+
