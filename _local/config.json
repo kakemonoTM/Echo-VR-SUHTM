@@ -1,0 +1,6 @@
+{
+  "publisher_lock": "Echo VR SUHTM",
+  "loginservice_host": "ws://localhost:6780",
+  "matchingservice_host": "ws://localhost:6781",
+  "radserverdb_host": "ws://localhost:6784"
+}

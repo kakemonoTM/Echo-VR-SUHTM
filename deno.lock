@@ -1,0 +1,9 @@
+{
+  "version": "2",
+  "remote": {
+    "https://deno.land/std@0.200.0/encoding/base64.ts": "144ae6234c1fbe5b68666c711dc15b1e9ee2aef6d42b3b4345bf9a6c91d70d0d",
+    "https://deno.land/x/zstd_wasm@0.0.20/deno/zstd.deno.js": "189187a43a4bdc8d695ff2f6525c8d3461cbd715333123e502a6a3bd84c272b4",
+    "https://deno.land/x/zstd_wasm@0.0.20/deno/zstd.encoded.wasm.ts": "87e04064657bf5082b47a709931f8eb3f0d2fe537a8c650cfb5c997b7b460d07",
+    "https://deno.land/x/zstd_wasm@0.0.20/deno/zstd.ts": "9dd80fbefd4098d43818f15e700e5e84a46f03adcd601d6592502d9746d8721b"
+  }
+}
