@@ -14,7 +14,7 @@ deno run -A poweron.ts
 done right and this should pop up in terminal
 
 Listening on http://localhost:6780/
-Listening on http://localhost:6784/
+Listening on http://localhost:6782/
 Listening on http://localhost:6781/
 
 ## pointing Echo VR to these servers
