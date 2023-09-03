@@ -14,7 +14,7 @@ const { socket: ws, response } = Deno.upgradeWebSocket(req);
 
   const ws_send = ws.send;
   ws.send = (data: ArrayBuffer) => {
-    DEBUG && console.debug(`[Data Server: ${arrayBufferToHexString(data)}`);
+    DEBUG && console.debug(`[Data] Server: ${arrayBufferToHexString(data)}`);
     ws_send.call(ws, data);
   };
 
