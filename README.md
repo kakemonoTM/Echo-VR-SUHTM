@@ -25,11 +25,11 @@ any problems running the servers feel free to dm me on discord @kakemono#0
 
 ## Special Thanks to
 
-# special thanks to UnusualNorm for creating Decho (https://github.com/UnusualNorm/Decho)
+**special thanks to UnusualNorm for creating Decho (https://github.com/UnusualNorm/Decho)
 
 Decho is custom servers for newer Echo Version  34.4.631547.1
 
-# special thanks to EchoVR Custom Servers for never giving up on Echo VR 
+**special thanks to EchoVR Custom Servers for never giving up on Echo VR 
 
 their discord server is https://discord.gg/xZWkVZQqZq
 
